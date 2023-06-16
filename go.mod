@@ -1,3 +1,3 @@
-module com/bnsf/calculator
+module com/ravi/calculator
 
 go 1.20
